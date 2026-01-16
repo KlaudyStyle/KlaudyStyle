@@ -4,7 +4,7 @@ Java Developer - backend-разработчик c опытом во frontend, п
 Опыт в создании низкоуровневых модулей защиты (AntiCheat) C++ / Java JNI, разработка инжекторов, обфускации (на Java с нативным интерфейсом JNI), шифровании данных. Небольшой опыт рендеринге графики на OpenGL.
 
 📌 Telegram: @klaudystyle
-## Технологический стек
+## Стек технологий
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
@@ -43,4 +43,5 @@ Java Developer - backend-разработчик c опытом во frontend, п
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/>
 
 </p>
+
 
